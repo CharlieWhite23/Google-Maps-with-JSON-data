@@ -1,2 +1,3 @@
 # Google-Maps-with-JSON-data
 Mapping lat/lon from JSON file using Google Maps Javascript API 
+I need some assistance on taking this sample code that plots a static lat/lon and reverse geocoding (address) marker to a dynamic solution that loops through a JSON file which has the lat/lon as well as speed and direction data.  So from what I have researched...I need to fetch the JSON file, parse it into an array, then loop through the array to plot the markers with the reverse geocoding address info attached.  I have obtained the Google API key needed for this.  Any help would be greatly appreciated!
